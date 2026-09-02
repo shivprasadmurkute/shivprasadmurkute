@@ -1,203 +1,161 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Hi%20There,%20I'm%20Shivprasad%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20•%20Data%20Scientist%20•%20ML%20%26%20AI%20Engineer%20•%20Software%20Engineer&descAlignY=52&descSize=16" width="100%"/>
+  # Hi there, I'm Shivprasad Murkute 👋
+  ### 🚀 Gen AI Developer | Machine Learning & Software Automation Engineer
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Building+real-time+AI+%26+Computer+Vision+systems;Turning+raw+data+into+deployable+products;LLMs+%2B+LangChain+%2B+Prompt+Engineering;Currently+exploring+Agentic+AI+🚀" alt="Typing SVG" />
-</a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivprasad-murkute-572900268/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivprasadmurkute)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivprasadmurkute0@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Location-Pune%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/shivprasadmurkute)
 
-<br/>
+  <br/>
 
-<a href="https://www.linkedin.com/in/shivprasad-murkute-572900268/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:shivprasadmurkute01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/shivprasadmurkute"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Bengaluru%2C%20India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-<img src="https://komarev.com/ghpvc/?username=shivprasadmurkute&label=Profile%20Views&color=302b63&style=for-the-badge" />
+  <!-- Typing SVG Banner -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Production-Ready+Agentic+AI+%26+RAG+Systems;Computer+Vision+%26+Deep+Learning+Pipelines;End-to-End+LLM+Applications+%26+APIs;Automated+Testing+%26+CI%2FCD+Quality+Engines" alt="Typing SVG" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
+---
 
-## ⚡ About Me
+### 👨‍💻 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="280">
+- 🤖 Passionate **Generative AI & Machine Learning Developer** building autonomous agents, RAG pipelines, and deep learning vision systems.
+- 💡 Experienced in **LLMs (GPT, Llama), LangChain, Vector Databases (FAISS, ChromaDB), Model Context Protocol (MCP)**, and schema-aware prompt engineering.
+- 🎯 Strong foundation in **Python, PyTorch, YOLOv8 Computer Vision, FastAPI/Flask backend services, and Docker containerization**.
+- 📜 Certified in **Oracle Agentic AI Foundations**, **Oracle Cloud Infrastructure AI**, and author of a published research paper in **IJIRSET**.
+- 💬 Ask me about **Generative AI, RAG Architectures, Computer Vision, and Microservices Automation**.
 
-- 🎓 B.Tech, Information Technology — D. Y. Patil University, Ambi *(CGPA: 7.78/10)*
-- 🔭 Building real-world **AI/ML, Computer Vision & GenAI/LLM** applications
-- 🤖 Deep focus on **LangChain-powered LLM apps**, **YOLOv8 detection**, and end-to-end **data pipelines**
-- 🏆 **Star Performer Award** — Data Science Internship, Oasis Infobyte (AICTE OIB-SIP)
-- 🌱 Currently exploring **Agentic AI** & advanced **Prompt Engineering**
-- 💡 I turn raw datasets into deployable products — from PPE-detection dashboards to natural-language-to-SQL engines
-- 📫 **shivprasadmurkute01@gmail.com**
+---
 
-<br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
-
-## 🛠️ Tech Arsenal
+### 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css&theme=dark" />
-
-**Machine Learning · Deep Learning · GenAI**
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=ultralytics&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs%20%26%20GenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-00A98F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge"/>
-
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=flask,fastapi,sklearn,opencv&theme=dark" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-**Databases, Cloud & Tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,aws,git,github,vscode&theme=dark" />
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Generative AI & LLMs** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) `RAG Pipelines` `MCP SDK` `ChromaDB` `FAISS` `Prompt Engineering` `Zero-Shot NLP` |
+| **Machine Learning & CV** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) `YOLOv8` `Pandas` `NumPy` |
+| **Backend & Cloud / MLOps** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) `REST APIs` `Linux` |
+| **Databases & Testing** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) `Power BI` `ETL Testing` |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
+---
 
-## 🚀 Featured Projects
+### 🚀 Featured Technical Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🦺 PPE Detection & Safety Monitoring
-Real-time CV system detecting helmet/vest/gloves compliance via webcam, video, or RTSP/CCTV, with color-coded bounding-box overlays.
-<br/><br/>
-`Python` `YOLOv8` `OpenCV` `Flask` `SQLite` `REST APIs`
-- Live Flask dashboard with compliance metrics & violation trends
-- 10+ REST API endpoints with throttled alerting to prevent flooding
-
-</td>
-<td width="50%" valign="top">
-
-### 🗄️ AI-Powered SQL Query Generator
-Translates natural language into SQL with **90%+ accuracy**, cutting manual query-writing effort by **70%**.
-<br/><br/>
-`Python` `LLM` `LangChain` `REST APIs` `Streamlit`
-- Schema-aware prompt templates for MySQL, PostgreSQL & SQL Server
-- Interactive Streamlit UI built for non-technical users
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📧 AI-Powered Email Automation
-Generative AI pipeline that generates, summarizes & classifies emails — **75% productivity gain**.
-<br/><br/>
-`Python` `LLM` `LangChain` `REST APIs` `Streamlit`
-- LangChain agents for auto-categorization across 5+ categories
-- Configurable summarization via REST API integration
-
-</td>
-<td width="50%" valign="top">
-
-### 🚗 Vehicle Price Prediction
-Real-time price predictions with **92% accuracy** from 5,000+ vehicle records.
-<br/><br/>
-`Python` `Machine Learning` `Streamlit`
-- Full EDA + regression model comparison
-- Hyperparameter tuning to select best-performing model
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📨 Email Spam Detection
-NLP classification pipeline achieving a **95% F1-score** across 5,000+ emails.
-<br/><br/>
-`Python` `NLP` `Scikit-learn` `TF-IDF`
-- Benchmarked Naive Bayes, SVM & Logistic Regression
-- Threshold tuning cut false positives by 10%
-
-</td>
-<td width="50%" valign="top">
-
-### ⭐ Explore More
-Full source code, documentation & live demos for every project above live in my pinned repositories.
-<br/><br/>
-
-<a href="https://github.com/shivprasadmurkute?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-302b63?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/shivprasadmurkute/agent-sdlc-copilot">🤖 Agent SDLC Copilot</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Generative_AI-RAG_Pipeline-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/MCP_SDK-Docker-green?style=flat-square" />
+      </p>
+      <ul>
+        <li>Autonomous agent enforcing valid SDLC artifact transitions using state machine logic.</li>
+        <li>Built high-performance <b>RAG pipeline</b> with OpenAI embeddings & cosine-similarity vector retrieval.</li>
+        <li>Shipped an MCP server exposing automated code-validation tools containerized with Docker & CI/CD.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/shivprasadmurkute/agent-sdlc-copilot"><b>View Repository →</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/shivprasadmurkute/AI-SQL-Query-Generator-">⚡ AI Natural Language-to-SQL Engine</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LangChain-LLMs-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/PostgreSQL-Streamlit-blue?style=flat-square" />
+      </p>
+      <ul>
+        <li>Translates natural language questions into valid SQL queries with <b>90%+ schema accuracy</b>.</li>
+        <li>Schema-aware dynamic prompt engineering supporting PostgreSQL, MySQL, and SQLite.</li>
+        <li>Integrated AI safety guardrails and input verification layers for sanitized query execution.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/shivprasadmurkute/AI-SQL-Query-Generator-"><b>View Repository →</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/shivprasadmurkute/PPE-Detection-System">🦺 Real-Time PPE Detection System</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/YOLOv8-OpenCV-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/Flask_REST_API-SQLite-purple?style=flat-square" />
+      </p>
+      <ul>
+        <li>Real-time computer vision system detecting worker PPE compliance (helmets, vests, gloves) from webcam/RTSP feeds.</li>
+        <li>Flask control-room dashboard tracking violation trends, live metrics, and automatic snapshot captures.</li>
+        <li>Integrated cooldown alert system and batch analysis mode for recorded video footage.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/shivprasadmurkute/PPE-Detection-System"><b>View Repository →</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/shivprasadmurkute/Data-Pipeline-UI-Quality-Automation">🧪 Data Pipeline & Quality Automation</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PyTest-Automated_Testing-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/ETL_Validation-CI%2FCD-blue?style=flat-square" />
+      </p>
+      <ul>
+        <li>End-to-end framework validating automated data pipeline transformations and schema consistency.</li>
+        <li>Automated 20+ regression test cases for ETL workflows, catching data drift and boundary null values.</li>
+        <li>Integrated PyTest validation gates directly into CI/CD pipelines, cutting manual QA time by <b>65%</b>.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/shivprasadmurkute/Data-Pipeline-UI-Quality-Automation"><b>View Repository →</b></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
+---
 
-## 📊 GitHub Analytics
+### 🏆 Certifications & Publications
+
+- 🎖️ **Oracle Agentic AI Foundations Associate (2026)** — *Oracle University*
+- 🎖️ **Oracle Cloud Infrastructure AI Certified Foundations Associate** — *Oracle University*
+- 🎖️ **Oracle AI Database Certified Foundations Associate** — *Oracle University*
+- 🎖️ **Master in Data Science & Analytics with AI** — *ITVedant Education (Skill India / NSDC)*
+- 📄 **Research Publication:** *Software Solutions to Identify Users Behind Social Media-Based Drug Trafficking* — **IJIRSET** *(Vol. 14, Issue 4, Apr 2025)*
+
+---
+
+### 📊 GitHub Activity & Statistics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivprasadmurkute&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivprasadmurkute&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<img src="https://streak-stats.demolab.com?user=shivprasadmurkute&theme=tokyonight&hide_border=true&background=0d1117" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivprasadmurkute&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=shivprasadmurkute&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Shivprasad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivprasadmurkute&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
-<details>
-<summary><b>🏆 GitHub Trophies</b></summary>
-<br/>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shivprasadmurkute&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivprasadmurkute&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
 </div>
-</details>
 
-<details>
-<summary><b>🐍 Contribution Snake</b></summary>
-<br/>
-<div align="center">
-<img src="https://raw.githubusercontent.com/shivprasadmurkute/shivprasadmurkute/output/github-contribution-grid-snake-dark.svg" />
-<br/><i>(Generates automatically once the "snake" GitHub Action is added to this repo — see setup note below)</i>
-</div>
-</details>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
-
-## 🎓 Certifications
+### 🤝 Connect With Me
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Oracle-Agentic%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/IBM-Machine%20Learning%20with%20Python-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-<img src="https://img.shields.io/badge/IBM-Python%20for%20Data%20Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/IBM-Data%20Analysis%20with%20Python-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-<img src="https://img.shields.io/badge/IBM-SQL%20%26%20Relational%20DBs-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/IBM-Introduction%20to%20Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-<img src="https://img.shields.io/badge/IBM-Data%20Science%20%26%20Analytics%20with%20AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/shivprasad-murkute-572900268/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:shivprasadmurkute0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/shivprasadmurkute">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
 </div>
 
 <br/>
 
 <div align="center">
-
-### 💬 *"Turning data into decisions, and prompts into products."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
-
+  <sub>⭐ Designed & Built with passion by <b>Shivprasad Murkute</b> | Updated 2026</sub>
 </div>
-
