@@ -51,6 +51,19 @@
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center"><a href="https://github.com/shivprasadmurkute/InsightX-AI-Business-Copilot">💡 InsightX: AI Business Copilot</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Agentic_AI-Business_Copilot-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/RAG-Analytics_Engine-blue?style=flat-square" />
+      </p>
+      <ul>
+        <li>Intelligent conversational enterprise copilot delivering automated business intelligence & decision-support insights.</li>
+        <li>Integrates advanced LLM reasoning, document RAG, dynamic query execution, and actionable executive summaries.</li>
+        <li>Equipped with structured data-grounding pipelines to minimize hallucination and accelerate data-driven reporting.</li>
+      </ul>
+      <p align="center"><a href="https://github.com/shivprasadmurkute/InsightX-AI-Business-Copilot"><b>Explore Code &rarr;</b></a></p>
+    </td>
+    <td width="50%">
       <h3 align="center"><a href="https://github.com/shivprasadmurkute/agent-sdlc-copilot">🤖 Agent SDLC Copilot</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/GenAI-RAG_Pipeline-blue?style=flat-square" />
@@ -63,6 +76,8 @@
       </ul>
       <p align="center"><a href="https://github.com/shivprasadmurkute/agent-sdlc-copilot"><b>Explore Code &rarr;</b></a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/shivprasadmurkute/AI-SQL-Query-Generator-">⚡ AI Natural Language-to-SQL Engine</a></h3>
       <p align="center">
@@ -76,9 +91,7 @@
       </ul>
       <p align="center"><a href="https://github.com/shivprasadmurkute/AI-SQL-Query-Generator-"><b>Explore Code &rarr;</b></a></p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2">
+    <td width="50%">
       <h3 align="center"><a href="https://github.com/shivprasadmurkute/AI-powered-Email-Assistant">✉️ AI-Powered Email Assistant & Summarizer</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Hugging_Face-Zero--Shot_NLP-yellow?style=flat-square" />
