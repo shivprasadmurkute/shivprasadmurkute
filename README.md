@@ -11,7 +11,7 @@
   <br/>
 
   <!-- Typing SVG Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Generative+AI+%7C+RAG+Pipelines+%7C+Agentic+Workflows;Data+Science+%7C+Machine+Learning+%7C+Predictive+Modeling;Data+Analytics+%7C+Power+BI+%7C+Advanced+SQL+%7C+EDA;Computer+Vision+%7C+YOLOv8+%7C+Deep+Learning+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Generative+AI+%7C+RAG+Pipelines+%7C+Agentic+Workflows;Data+Science+%7C+Machine+Learning+%7C+Predictive+Modeling;Data+Analytics+%7C+Power+BI+%7C+Microsoft+Fabric+%7C+SQL;Computer+Vision+%7C+YOLOv8+%7C+Deep+Learning+APIs" alt="Typing SVG" />
 
 </div>
 
@@ -23,9 +23,9 @@
 - 💡 **Core Expertise**: 
   - **GenAI & NLP**: LLMs (GPT, Llama), RAG Architecture, LangChain, Vector Databases (FAISS, ChromaDB), Model Context Protocol (MCP), Prompt Engineering.
   - **Data Science & ML**: Supervised/Unsupervised Learning, Regression, Classification, Feature Engineering, Model Optimization, Hyperparameter Tuning.
-  - **Data Analytics & BI**: Advanced SQL (Window Functions, CTEs), Exploratory Data Analysis (EDA), KPI Tracking, Power BI, Advanced Excel.
+  - **Data Analytics & BI**: Microsoft Fabric, Advanced SQL (Window Functions, CTEs), Exploratory Data Analysis (EDA), KPI Tracking, Power BI, Advanced Excel.
   - **Computer Vision & Backend**: YOLOv8, OpenCV, FastAPI, Flask REST APIs, Docker, CI/CD, PyTest Quality Automation.
-- 📜 **Certified**: **Oracle Agentic AI Foundations**, **Oracle Cloud Infrastructure AI**, **Oracle AI Database**, and Author of a published research paper in **IJIRSET**.
+- 📜 **Certified**: **Microsoft Certified: Fabric Analytics Engineer Associate**, **Oracle Agentic AI Foundations**, **Oracle Cloud Infrastructure AI**, **Oracle AI Database**, and Author of a published research paper in **IJIRSET**.
 
 ---
 
@@ -37,8 +37,8 @@
 | :--- | :--- |
 | **Generative AI & NLP** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) `RAG Pipelines` `MCP SDK` `ChromaDB` `FAISS` `Vector Embeddings` `Zero-Shot NLP` |
 | **Data Science & ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) `Statistical Modeling` |
-| **Data Analytics & BI** | ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) `EDA` `DAX Measures` `KPI Reporting` `Data Storytelling` |
-| **Databases & Data Eng.** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) `ETL Pipelines` `Data Wrangling` |
+| **Data Analytics & BI** | ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) `EDA` `DAX Measures` `KPI Reporting` `Data Storytelling` |
+| **Databases & Data Eng.** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) `ETL Pipelines` `Lakehouse Architecture` `Data Wrangling` |
 | **Vision, Backend & Cloud** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) `YOLOv8` `PyTest` `AWS` |
 
 </div>
@@ -242,6 +242,7 @@
 
 ### 🏆 Certifications & Publications
 
+- 🎖️ **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)** — *Microsoft* *(Credential ID: `E6C8E704E3057EB1`)*
 - 🎖️ **Oracle Agentic AI Foundations Associate (2026)** — *Oracle University*
 - 🎖️ **Oracle Cloud Infrastructure AI Certified Foundations Associate** — *Oracle University*
 - 🎖️ **Oracle AI Database Certified Foundations Associate** — *Oracle University*
