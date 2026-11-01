@@ -251,19 +251,6 @@
 
 ---
 
-### 📊 GitHub Activity & Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivprasadmurkute&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Shivprasad's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivprasadmurkute&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivprasadmurkute&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
-</div>
-
----
-
 ### 🤝 Connect With Me
 
 <div align="center">
